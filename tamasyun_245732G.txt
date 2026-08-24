@@ -1,1 +1,2 @@
 https://github.com/tamasyun/git-recipes-tamasyun
+https://github.com/tamasyun/git-diary-tamasyun
