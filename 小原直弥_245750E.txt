@@ -1,0 +1,2 @@
+https://github.com/naoya-ai/git-recipes-naoya-ai
+https://github.com/naoya-ai/git-diary-naoya-ai/tree/diary/naoya-ai
