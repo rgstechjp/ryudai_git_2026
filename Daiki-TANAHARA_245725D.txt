@@ -1,2 +1,3 @@
 https://github.com/Daiki-TANAHARA/git-recipes-Daiki-TANAHARA
 https://github.com/Daiki-TANAHARA/git-diary-Daiki-TANAHARA
+https://github.com/rgstechjp/git-explorer/pull/7
