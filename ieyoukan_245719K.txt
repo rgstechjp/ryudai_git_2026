@@ -1,1 +1,2 @@
 https://github.com/ieyoukan/git-recipes-ieyoukan
+https://github.com/ieyoukan/git-explorer
